@@ -1,0 +1,4 @@
+../Core/Src/freertos.c:76:6:MX_FREERTOS_Init	1
+../Core/Src/freertos.c:119:6:AppTask_Main	2
+../Core/Src/freertos.c:150:6:HAL_ADC_ConvCpltCallback	4
+../Core/Src/freertos.c:164:5:__io_putchar	1
